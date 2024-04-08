@@ -1,30 +1,24 @@
 {
-  "name": "gas-template",
+  "name": "course-data-aligner",
   "version": "1.0.0",
-  "description": "A personal template repository for creating a local dev environment using Google Apps Script, clasp, and github page",
-  "main": "src/sample.js",
-  "directories": {
-    "test": "tests"
-  },
+  "description": "Harmonizes course data between two Google Sheets with differing structures, effectively resolving data structure inconsistencies across multiple stakeholders.",
   "scripts": {
-    "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ttsukagoshi/gas-template.git"
+    "format": "prettier --write src/**/*"
   },
   "keywords": [
     "google-apps-script",
     "gas",
     "clasp",
-    "github-page"
+    "github-page",
+    "google-sheet",
+    "google-slides"
   ],
-  "author": "tigertiger",
+  "author": "tsato21",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/ttsukagoshi/gas-template/issues"
+    "url": "https://github.com/tsato21/course-data-aligner/issues"
   },
-  "homepage": "https://github.com/ttsukagoshi/gas-template#readme",
+  "homepage": "https://tsato21.github.io/scripts-showcase/gas-tools/course-data-aligner/course-data-aligner",
   "devDependencies": {
     "@google/clasp": "^2.4.2",
     "@types/google-apps-script": "^1.0.64",
