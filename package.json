@@ -14,8 +14,7 @@
     "gas",
     "clasp",
     "github-page",
-    "google-sheet",
-    "google-slides"
+    "google-sheet"
   ],
   "author": "tsato21",
   "license": "Apache-2.0",
