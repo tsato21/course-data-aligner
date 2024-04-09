@@ -5,6 +5,10 @@
   "scripts": {
     "format": "prettier --write src/**/*"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsato21/course-data-aligner.git"
+  },
   "keywords": [
     "google-apps-script",
     "gas",
