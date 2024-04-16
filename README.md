@@ -1,2 +1,2 @@
 # Course Data Aligner
-This repository showcases a Google Apps Script tool for aligning course data to be consistent with database structure. You can see details at [Manual Builder Showcase](https://tsato21.github.io/scripts-showcase/gas-tools/each-tool/course-data-aligner).
+This repository showcases a Google Apps Script tool for aligning course data to be consistent with database structure. You can see details at [Manual Builder Showcase](https://tsato21.github.io/gas-tools/each-tool/course-data-aligner).

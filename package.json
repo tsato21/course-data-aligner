@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/tsato21/course-data-aligner/issues"
   },
-  "homepage": "https://tsato21.github.io/scripts-showcase/gas-tools/course-data-aligner/course-data-aligner",
+  "homepage": "https://tsato21.github.io/gas-tools/course-data-aligner/course-data-aligner",
   "devDependencies": {
     "@google/clasp": "^2.4.2",
     "@types/google-apps-script": "^1.0.64",
